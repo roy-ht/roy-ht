@@ -1,19 +1,9 @@
-# github-profile-summary-cards-example
+![](https://raw.githubusercontent.com/roy-ht/roy-ht/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+![](https://raw.githubusercontent.com/roy-ht/roy-ht/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/roy-ht/roy-ht/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/roy-ht/roy-ht/master/profile-summary-card-output/nord_bright/3-stats.svg)
 
-```To create your profile README you need name the repo as your username```
+:sparkling_heart: with [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-Then you can use everything in profile-summary-card-output folder
-| :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-| :warning: | Don't forget to modify the image path (The correct path is under the profile-summary-card-output folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](./profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://komarev.com/ghpvc/?username=roy-ht&color=green)
