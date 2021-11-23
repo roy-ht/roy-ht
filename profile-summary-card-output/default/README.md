@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/roy-ht/roy-ht/master/profile-summary-card-output/default/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/roy-ht/roy-ht/master/profile-summary-card-output/default/4-productive-time.svg)
-```
-
-    
