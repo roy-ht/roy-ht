@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/roy-ht/roy-ht/master/profile-summary-card-output/github/4-productive-time.svg)
-```
-
-    
